@@ -1,9 +1,9 @@
 import csv
 
 # Chemins des fichiers
-fichier_identifiants = "C:/DATA/code/.data/liste_rpps.txt"          # fichier A
-fichier_transparence = "C:/DATA/code/.params/declarations.csv"
-fichier_sortie = "C:/DATA/code/.data/declarations_filtres.txt"
+fichier_identifiants = "C:/PYTHON/.entree/liste_rpps_hematologie.txt"          # fichier A
+fichier_transparence = "C:/PYTHON/.entree/declarations.csv"
+fichier_sortie = "C:/PYTHON/.data/declarations_filtres.txt"
 
 # 1. Charger les identifiants du fichier A
 with open(fichier_identifiants, "r", encoding="utf-8") as f:
