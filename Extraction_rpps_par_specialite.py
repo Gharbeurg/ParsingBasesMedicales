@@ -1,11 +1,11 @@
 import csv
 
 # valeur recherchée dans la colonne "Libellé profession"
-profession_cible = "Hématologie (option Onco-hématologie)"
+profession_cible = "Spécialiste en Médecine Générale"
 
 # chemins des fichiers
 fichier_entree = "C:/PYTHON/.entree/PS_LibreAcces_Personne_activite_202506200837.txt"
-fichier_sortie = "C:/PYTHON/.data/liste_rpps_hematologie.txt"
+fichier_sortie = "C:/PYTHON/.data/liste_rpps_generaliste.txt"
 
 # ouverture du fichier
 with open(fichier_entree, encoding="utf-8") as f:

@@ -1,7 +1,7 @@
 import csv
 
 # Chemins des fichiers
-fichier_identifiants = "C:/PYTHON/.entree/liste_rpps_hematologie.txt"          # fichier A
+fichier_identifiants = "C:/PYTHON/.entree/liste_rpps_generaliste.txt"          # fichier A
 fichier_transparence = "C:/PYTHON/.entree/declarations.csv"
 fichier_sortie = "C:/PYTHON/.data/declarations_filtres.txt"
 
